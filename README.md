@@ -1,52 +1,52 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-## Hey 👋, I'm NAME  
-### 🚀 Flutter Learner & Future Mobile Developer  
+## Hey 👋, I’m **Ziynat!**  
+### 🌟 Flutter Learner | Football Fan | Messi Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Just+started+Flutter+today!;Learning+Dart+&+Flutter;Committing+my+first+steps;Building+small+widgets+daily&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Flutter+journey+started+today!;Learning+Dart+%26+Flutter;Football+lover+%26+Messi+fan;Daily+coding+one+step+at+a+time&center=true&width=600&height=50">
 </p>
 
 ---
 
 ### 🌱 About Me
 
-I’m a beginner in Flutter — started learning **today**, and excited to build my first mobile apps!  
-This space is dedicated to tracking what I learn every day and showcasing practice projects as I grow.
+Hey! I’m **Ziynat**, a beginner Flutter developer who just started exploring mobile development today 🎉.  
+I love **football ⚽**, especially **Lionel Messi** — his creativity and work ethic inspire me both on and off the field.
 
-- 📍 Flutter basics  
-- 🛠️ Learning Dart & widgets  
-- 📅 Daily practice commits  
+Here’s what I’m focused on:
+- 🚀 Learning **Dart basics**
+- 📱 Exploring **Flutter widgets**
+- 🧠 Building mini apps every day
 
-Let’s build something cool 🚀
-
----
-
-## 🌟 Learning Roadmap
-
-- ✅ Dart fundamentals  
-- ⏳ Flutter widgets & layout  
-- ⏳ State management  
-- ⏳ Navigation & routing  
-- ⏳ Firebase basics  
-- ⏳ Publishing to stores  
-
-> Every big app starts with one small widget 😄
+Let’s grow, learn, and build cool things! 😄
 
 ---
 
-## 🧰 Tools & Technologies
+## 🧭 Current Goals
+
+- ✅ Understand Dart fundamentals  
+- 🔄 Learn core Flutter widgets  
+- 🧩 Build simple practice apps  
+- 🔥 Add football-themed Flutter projects  
+- 📦 Get confident with state management  
+
+---
+
+## 🛠️ Tools & Technologies
 
 <div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" height="50" alt="Flutter" style="margin: 10px"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" height="50" alt="Dart" style="margin: 10px"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" alt="Git" style="margin: 10px"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/github-original.svg" height="50" alt="GitHub" style="margin: 10px"/>
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" height="50" alt="Flutter" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" height="50" alt="Dart" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" alt="Git" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/github-original.svg" height="50" alt="GitHub" />
 </div>
+
+*Other tools will be added as I learn them!*
 
 ---
 
-## 📊 GitHub Stats & Streaks
+## 📊 GitHub Stats & Streak
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZiynatDeveloper&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
@@ -59,27 +59,29 @@ Let’s build something cool 🚀
 
 ---
 
-## 🧪 Current Projects
+## ⚽ Future Projects (Football + Flutter 💡)
 
-- 📱 **Flutter Playground** — practice widgets & layouts  
-- 🧠 **Dart Demos** — small logic examples  
+- 📱 **Messi Stats Explorer** — a mini app to explore Messi’s career highlights  
+- 📊 **Football Tracker UI** — learn UI layouts using football data APIs  
+- 🏆 **Daily Flutter Widgets** — weekly widget practice repo  
 
-*(Real-scale apps coming soon!)*
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%">
-</div>
+*(Ideas in progress 😄)*
 
 ---
 
-## 🤝 Connect  
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%">
 
-I’m just getting started — but always happy to learn, get tips, or collaborate ✨
+---
+
+## 🤝 Let’s Connect
+
+I’m just getting started — but always happy to learn, collaborate, and build cool things together 💜
+
+📫 **Email:** YOUR_EMAIL  
+🔗 **LinkedIn:** [LINKEDIN_URL](LINKEDIN_URL)
 
 ---
 
 <p align="center">
-  **“Consistency today leads to mastery tomorrow.”**
+  **“Small steps every day lead to big skills tomorrow.”**
 </p>
