@@ -1,71 +1,85 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## Hey 👋, I’m **Ziynat!**  
-### 🌟 Flutter Learner | Football Fan | Messi Enthusiast
+### 🚀 Flutter Learner | ⚽ Football Lover | 🐐 Messi Fan
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Flutter+journey+started+today!;Learning+Dart+%26+Flutter;Football+lover+%26+Messi+fan;Daily+coding+one+step+at+a+time&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Flutter+journey+started+today!;Learning+Dart+%26+Flutter;Football+lover+%26+Messi+fan;Daily+commits+%F0%9F%94%A5&center=true&width=650&height=50">
 </p>
 
 ---
 
 ### 🌱 About Me
 
-Hey! I’m **Ziynat**, a beginner Flutter developer who just started exploring mobile development today 🎉.  
-I love **football ⚽**, especially **Lionel Messi** — his creativity and work ethic inspire me both on and off the field.
+I’m **Ziynat**, a beginner Flutter developer who just started learning mobile development 🚀  
+I’m passionate about **football ⚽**, inspired by **Lionel Messi** — consistency, discipline, and creativity are values I try to apply in coding too.
 
-Here’s what I’m focused on:
-- 🚀 Learning **Dart basics**
-- 📱 Exploring **Flutter widgets**
-- 🧠 Building mini apps every day
+Current focus:
+- 📘 Dart fundamentals  
+- 🧩 Flutter widgets & layouts  
+- 🔥 Daily practice & commits  
 
-Let’s grow, learn, and build cool things! 😄
+> Learning step by step, one widget at a time.
 
 ---
 
 ## 🧭 Current Goals
 
-- ✅ Understand Dart fundamentals  
-- 🔄 Learn core Flutter widgets  
-- 🧩 Build simple practice apps  
-- 🔥 Add football-themed Flutter projects  
-- 📦 Get confident with state management  
+- ✅ Learn Dart basics  
+- ⏳ Understand core Flutter widgets  
+- ⏳ Build small practice apps  
+- ⏳ Create football-themed Flutter projects  
+- ⏳ Stay consistent with daily commits  
 
 ---
 
 ## 🛠️ Tools & Technologies
 
 <div align="center">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" height="50" alt="Flutter" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" height="50" alt="Dart" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" alt="Git" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/github-original.svg" height="50" alt="GitHub" />
+  <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" height="50" style="margin: 10px"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" height="50" style="margin: 10px"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" style="margin: 10px"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/github-original.svg" height="50" style="margin: 10px"/>
 </div>
-
-*Other tools will be added as I learn them!*
 
 ---
 
-## 📊 GitHub Stats & Streak
+## 📊 GitHub Stats & Streaks 🔥
 
+### 🔥 Contribution Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZiynatDeveloper&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZiynatDeveloper&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=ZiynatDeveloper&theme=tokyonight&hide_border=true"/>
 </p>
 
+### 📈 Overall GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZiynatDeveloper&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+### 🧠 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiynatDeveloper&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
+### 🧬 Contribution Graph
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZiynatDeveloper&theme=tokyonight"/>
+</p>
+
+### 🐍 Contribution Snake (auto-updating)
+<p align="center">
+  <img src="https://github.com/ZiynatDeveloper/ZiynatDeveloper/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
 ---
 
-## ⚽ Future Projects (Football + Flutter 💡)
+## ⚽ Flutter × Football Ideas
 
-- 📱 **Messi Stats Explorer** — a mini app to explore Messi’s career highlights  
-- 📊 **Football Tracker UI** — learn UI layouts using football data APIs  
-- 🏆 **Daily Flutter Widgets** — weekly widget practice repo  
+- 📱 **Messi Career Stats App**  
+- 📊 **Football Match Tracker UI**  
+- 🧪 **Flutter Widget Practice Repo**  
 
-*(Ideas in progress 😄)*
+*(Projects coming soon 👀)*
 
 ---
 
@@ -73,15 +87,13 @@ Let’s grow, learn, and build cool things! 😄
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Connect With Me
 
-I’m just getting started — but always happy to learn, collaborate, and build cool things together 💜
-
-📫 **Email:** YOUR_EMAIL  
-🔗 **LinkedIn:** [LINKEDIN_URL](LINKEDIN_URL)
+📧 **Email:** ziynatjanabaev33@gmail.com  
+💬 **Telegram:** [@z_0628_z](https://t.me/z_0628_z)
 
 ---
 
 <p align="center">
-  **“Small steps every day lead to big skills tomorrow.”**
+  <strong>“Great players train every day — great developers commit every day.”</strong> ⚽💻
 </p>
