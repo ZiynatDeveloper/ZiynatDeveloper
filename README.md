@@ -39,7 +39,6 @@ Current focus:
   <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" height="50" style="margin: 10px"/>
   <img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" height="50" style="margin: 10px"/>
   <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" style="margin: 10px"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/github-original.svg" height="50" style="margin: 10px"/>
 </div>
 
 ---
@@ -51,24 +50,9 @@ Current focus:
   <img src="https://streak-stats.demolab.com?user=ZiynatDeveloper&theme=tokyonight&hide_border=true"/>
 </p>
 
-### 📈 Overall GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZiynatDeveloper&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-### 🧠 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiynatDeveloper&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 ### 🧬 Contribution Graph
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZiynatDeveloper&theme=tokyonight"/>
-</p>
-
-### 🐍 Contribution Snake (auto-updating)
-<p align="center">
-  <img src="https://github.com/ZiynatDeveloper/ZiynatDeveloper/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
